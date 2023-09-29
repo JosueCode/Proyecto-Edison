@@ -1,0 +1,21 @@
+main {
+    
+
+
+    color: #333; 
+    padding: 20px;
+    text-align: justify; 
+}
+
+main h2 {
+    font-size: 28px; 
+    margin-top: 20px; 
+}
+
+main p {
+    font-size: 18px; 
+    line-height: 1.6; 
+    margin: 20px 0; 
+}
+
+
